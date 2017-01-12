@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+<title>Page not found: Northern Kentucky University, Greater Cincinnati Region</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="" />
+<meta name="description" content="Northern Kentucky University, a growing metropolitan university of more than 15,000 students served by nearly 2,600 faculty and staff on a thriving suburban campus near Cincinnati. &nbsp;
+" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0" />
+<meta name="ga_custom_var" content="1^Site^www.nku.edu^2" />
+<meta name="google-site-verification" content="lWVDhqyxi44M4LEjtxM8DD4zkVxMX_Sdqrf-hMYArfM" />
+<link rel="icon" type="image/x-icon" href="http://nku.edu/etc/designs/nku/images/favicon.ico"/>
+<link rel="shortcut icon" href="http://nku.edu/etc/designs/nku/images/favicon.ico"/>
+<link rel="shortcut icon" type="image/x-icon" href="http://nku.edu/etc/designs/nku/images/favicon.ico"/>
+
+
+<script type="text/javascript">
+// Google analytics using GAS - https://github.com/CardinalPath/gas
+var _gas = _gas || [];
+</script>
+<script type="text/javascript">
+_gas.push(['_setAccount', 'UA-20752203-1']);
+_gas.push(['_setAllowLinker', true]);
+_gas.push(['_setDomainName', 'nku.edu']);
+_gas.push(['_setDomainName', 'orgsync.com']);
+_gas.push(['_gasMultiDomain', 'click']);
+_gas.push(['_gasMeta']);
+_gas.push(['_trackPageview']);
+_gas.push(['_gasTrackForms']);
+_gas.push(['_gasTrackOutboundLinks']);
+_gas.push(['_gasTrackMaxScroll']);
+_gas.push(['_gasTrackDownloads']);
+_gas.push(['_gasTrackYoutube', { force: true, percentages: [25, 50, 75, 90]}]);
+_gas.push(['_gasTrackVimeo', { force: true }]);
+_gas.push(['_gasTrackMailto']);
+
+(function() {
+          var ga = document.createElement('script');
+          ga.type = 'text/javascript';
+          ga.async = true;
+          ga.src = document.location.protocol + '//'+ document.location.hostname + 
+                  ':'+ document.location.port + '/etc/designs/global/quicklinks/gas.min.js';
+          //ga.src = ('https:'==document.location.protocol ? 'https://':'http://') + 'cdnjs.cloudflare.com/ajax/libs/gas/1.10.1/gas.min.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(ga, s);
+})();
+ 
+// Track keyword ranking
+// More information: http://cutroni.com/blog/2013/01/14/a-new-method-to-track-keyword-ranking-using-google-analytics/
+if (document.referrer.match(/google\.com/gi) && document.referrer.match(/cd/gi)) {
+          var myString = document.referrer;
+          var r = myString.match(/cd=(.*?)&/);
+          var rank = parseInt(r[1]);
+          var kw = myString.match(/q=(.*?)&/);
+ 
+          if (kw[1].length > 0) {
+                   var keyWord  = decodeURI(kw[1]);
+          } else {
+                   keyWord = "(not provided)";
+          }
+ 
+          var p = document.location.pathname;
+          _gas.push(['_trackEvent', 'RankTracker', keyWord, p, rank, true]);
+}
+</script>
+
+<script type="text/javascript">
+var addthis_config = {
+   data_ga_property: 'UA-20752203-1',
+   data_ga_social: true,
+   "data_track_addressbar":false
+};
+</script>
+<script type="text/javascript">
+(function() {
+  var at = document.createElement('script'); at.type = 'text/javascript';
+  at.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 's7.addthis.com/js/300/addthis_widget.js#pubid=ra-5113bcdd739ae624';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(at, s);
+})();
+</script>
+
+<script type="text/javascript" href="http://nku.edu/etc/designs/homepage/design-default.1c666c31a8438dc705bcd78f1b282076.js"></script>
+
+    
+    
+<link rel="stylesheet" class="nku-design-1024 nku-responsive" href="http://nku.edu/etc/designs/homepage/design-1024.9be75c3886ab0f617a2cc8bf929866a5.css" media="all and (min-width: 1025px)"> 
+<link rel="stylesheet" class="nku-design-768" href="http://nku.edu/etc/designs/homepage/design-768.03cca8435f266894f8bed5eb37ca8a66.css" media="all and (min-width: 768px) and (max-width: 1024px)"> 
+<link rel="stylesheet" class="nku-design-480" href="http://nku.edu/etc/designs/homepage/design-480.50b25be972ecf77bc37c7b29dd5d7320.css" media="all and (min-width: 320px) and (max-width:  767px)">
+    
+<script type="text/javascript" href="http://nku.edu/etc/designs/nku/homepage-design/homepage-design.d41d8cd98f00b204e9800998ecf8427e.js"></script>
+<link rel="stylesheet" href="http://nku.edu/etc/designs/nku/homepage-design/homepage-design.041ea024723c50f172d57ad07ec5efdb.css" type="text/css">
+<script type="text/javascript" href="http://nku.edu/etc/designs/global/quicklinks/crosssitelinks.js"></script>
+</head>
+
+      
+
+
+
+
+<body>
+
+    <div>
+        <a href="#pageContentAnchor" accesskey="1" title="Skip to page content." class="hidden">Skip to page content.</a>
+    </div>
+
+    
+<div class="admin-quicklinks">
+<div id="toppanel">
+    <div id="panel">
+        <div class="quicklinks-content clearfix">
+        
+            <div class="par parsys"><div class="parsys_column admin-quicklinks"><div class="parsys_column admin-quicklinks-c0">
+
+<form method="POST" action="/content/error/404.html" id="_content_administrative-page_quicklinks_jcr_content_par_start" name="_content_administrative-page_quicklinks_jcr_content_par_start" enctype="multipart/form-data"><input type="hidden" name=":formid" value="_content_administrative-page_quicklinks_jcr_content_par_start"/><input type="hidden" name=":formstart" value="/content/administrative-page/quicklinks/jcr:content/par/start"/><input type="hidden" name="_charset_" value="UTF-8"/><div class="form">
+</div>
+<div class="dropdown section">
+    <div class="form_row">
+       <div class="form_leftcol"><div class="form_leftcollabel"><label for="_content_administrative-page_quicklinks_jcr_content_par_start_type">Show me more for:</label></div><div class="form_leftcolmark">&nbsp;</div></div>
+
+       <div class="form_rightcol">
+        <select class="form_field form_field_select" id="_content_administrative-page_quicklinks_jcr_content_par_start_type" name="type" ><option value="student" selected>Students</option><option value="faculty">Faculty/Staff</option><option value="parent">Parents</option></select>
+          </div>
+        </div>
+    <div class="form_row_description"></div>
+
+</div>
+<div class="section end">
+
+<div class="form_row">
+   <div class="form_leftcol"></div>
+   <div class="form_rightcol">
+</div>
+  </div><div class="form_row_description"></div>
+</div></form>
+<div class="parbase image section"><div class="image  none-align " id="" style=""><a href="http://azindex.nku.edu"><img title="" alt="A-Z index" class="cq-dd-image" href="http://nku.edu/content/administrative-page/quicklinks/_jcr_content/par/image_0.img.jpg/1367844426650.jpg"></a><br></div></div>
+</div><div class="parsys_column admin-quicklinks-c1"><div class="text parbase section">
+<div class="text " id="" ><ul class="quicklinks-student image-grid">
+<li><a href="http://advising.nku.edu/">Academic Advising</a></li>
+<li><a href="http://hcp.nku.edu/">Health &amp; Counseling</a></li>
+<li><a href="http://sga.nku.edu/">Student Government</a></li>
+<li><a href="http://campusrec.nku.edu">Campus Recreation</a></li>
+<li><a href="http://lap.nku.edu/">Learning Assistance</a></li>
+<li><a href="http://nku.orgsync.com/">Student Life</a></li>
+<li><a href="http://deanofstudents.nku.edu/policies/student-rights.html">Code of Conduct</a></li>
+<li><a href="http://admissions.nku.edu/majors.html">Majors</a></li>
+<li><a href="http://wellness.nku.edu/student.html">Student Wellness</a></li>
+<li><a href="https://access.nku.edu/sacsei/login.php">Digital Measures</a></li>
+<li><a href="http://eval.nku.edu">Online Student Evals</a></li>
+<li><a href="http://catalog.nku.edu/">Undergraduate Catalog</a></li>
+<li><a href="http://financialaid.nku.edu">Financial Assistance</a></li>
+<li><a href="http://police.nku.edu/">University Police</a></li>
+<li><a href="http://nku.bncollege.com">Campus Bookstore</a></li>
+<li><a href="http://studentaccountservices.nku.edu/tuition.html">Tuition &amp; Fees Schedule</a></li>
+</ul>
+</div>
+</div>
+<div class="text parbase section">
+<div class="text " id="" ><ul class="quicklinks-faculty image-grid">
+<li><a href="http://www.nku.edu/community/centersinstitutes.html">Centers and Institutes</a></li>
+<li><a href="http://wellness.nku.edu/employee.html">Faculty and Staff Wellness</a></li>
+<li><a href="http://www.nku.edu/about/departments.html">NKU Departments</a></li>
+<li><a href="http://catalog.nku.edu/" target="_blank">Course Catalog</a></li>
+<li><a href="https://www.myschoolbuilding.com/myschoolbuilding/mygateway.asp?acctnum=1279443456">Facilities Maint. Service Request</a></li>
+<li><a href="http://hr.nku.edu/">Human Resources</a></li>
+<li><a href="http://eval.nku.edu">Online Student Evals</a></li>
+<li><a href="https://access.nku.edu/sacsei/login.php">Digital Measures</a></li>
+<li><a href="http://oie.nku.edu">Institutional Research</a></li>
+<li><a href="http://hr.nku.edu/payroll.html">Payroll</a></li>
+<li><a href="http://disability.nku.edu">Disability Services</a></li>
+<li><a href="http://rgsrs.nku.edu">Research, Grants and Contracts</a></li>
+<li><a href="http://roomrequestsupport.nku.edu">Room Scheduling</a></li>
+<li><a href="http://ucap.nku.edu/">Early Alert</a></li>
+<li><a href="http://www.nku.edu/campusmaps.html">Maps and Directions</a></li>
+<li><a href="https://app.weaveonline.com//login.aspx?ReturnUrl=%2fnku%2flogin.aspx">WEAVEOnline login</a></li>
+<li><a href="http://marcomm.nku.edu/web-marketing-and-communications/webcontacts.html">Web Contacts</a></li>
+<li><a href="http://policy.nku.edu">Policy Website</a></li>
+</ul>
+</div>
+</div>
+<div class="text parbase section">
+<div class="text " id="" ><ul class="quicklinks-parent image-grid">
+<li><a href="http://registrar.nku.edu/academiccalendar.html">Academic Calendar</a></li>
+<li><a href="http://financialaid.nku.edu/apply.html">Financial Aid &amp; Scholarships</a></li>
+<li><a href="http://parking.nku.edu">Parking Services</a></li>
+<li><a href="http://hcp.nku.edu">Health &amp; Counseling</a></li>
+<li><a href="http://nku.orgsync.com/">Student Life</a></li>
+<li><a href="http://nku.bncollege.com">Campus Bookstore</a></li>
+<li><a href="http://housing.nku.edu/">Housing</a></li>
+<li><a href="http://studentaccountservices.nku.edu/tuition.html">Tuition and Fees</a></li>
+<li><a href="http://police.nku.edu/safety/prevention.html">Campus Safety</a></li>
+<li><a href="http://orientation.nku.edu/parents.html">Parent Programs</a></li>
+<li><a href="http://lap.nku.edu">Tutoring</a></li>
+<li><a href="http://disability.nku.edu">Disability Services</a></li>
+<li><a href="http://orientation.nku.edu/parents/association.html">Parents Association</a></li>
+</ul>
+</div>
+</div>
+</div><div class="parsys_column admin-quicklinks-c2"><div class="text parbase section">
+<div class="text " id="" ><h4>Quick Links</h4>
+<p><a href="https://learnonline.nku.edu/">Blackboard</a></p>
+<p><a href="http://www.nku.edu/calendars.html">Calendars</a></p>
+<p><a href="https://directory.nku.edu">Directory/Find-It!</a></p>
+<p><a href="http://steelylibrary.nku.edu/">Library, Steely</a></p>
+<p><a href="https://mynku.nku.edu/irj/portal">MyNKU</a></p>
+<p><a href="https://access2.nku.edu/Norseup/Account/Login.aspx?ReturnUrl=%2fnorseup%2f">NorseUp</a></p>
+<p><a href="http://registrar.nku.edu/Registration/Registration_Guide.html">Registration Guide</a></p>
+<p><a href="http://classschedule.nku.edu">Schedule of Classes</a></p>
+<p><a href="http://webmail.nku.edu">Webmail</a></p>
+<p><a href="https://password.nku.edu/">Change Password</a></p></div>
+</div>
+</div></div><div style="clear:both"></div>
+</div>
+ 
+        
+               
+        </div>
+    </div> 
+    <div class="tab">
+        <ul class="login">
+            <li class="left">&nbsp;</li>
+            <li id="toggle">
+                <a id="open" name="quicklinksOpen" class="open" href="#quicklinksOpen">Quick Links</a>
+                <a id="close" name="quicklinksClose" style="display: none;" class="close" href="#quicklinksClose">Close Quick Links</a>         
+            </li>
+            <li class="right">&nbsp;</li>
+        </ul>  
+    </div>
+</div>
+</div>
+ 
+
+    <div class="page">
+        <span id="left-shadow"></span>
+        <div class="parbase nkuBanner nkubanner">
+
+<div class="nku-banner"><a href="http://www.nku.edu" id="logo"><img alt="NKU Logo" title=""></a>
+
+       
+    <div class="ribbon">
+        
+    </div>
+    <div class="image nav-buttons " id="" style="">
+        <a href="#searchForm" class="nku-search-button nku-banner-button">
+            <img title="menu buttons" alt="mobile navigation" class="cq-dd-image" href="http://nku.edu/etc/designs/global/images/nkuhome-search-white.png"></a>
+        <a href="#nku-menu-button" class="nku-menu-stack-button nku-banner-button">
+            <img title="menu buttons" alt="mobile navigation" class="cq-dd-image" href="http://nku.edu/etc/designs/global/images/nkuhome-menu-white.png"></a>
+
+        <br>
+    </div>
+</div>
+<div class="clear"></div></div>
+
+        <div class="header">
+            
+            <span id="header-shadow"></span>
+            <h1>
+                <a href="http://www.nku.edu/">
+                    <span>Northern Kentucky University</span>&nbsp;
+                </a>
+            </h1>
+            
+        </div>
+
+        
+
+        
+
+        <div class="body" id="toplevel">
+
+            <span id="body-wrapper-right"></span>
+            <span id="body-shadow"></span>
+
+            <div class="parsys iparsys emergency"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys emergency">
+</div>
+</div>
+</div>
+
+            <div id="navigation"><div class="parsys iparsys navigation"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys navigation"><div class="section recursiveNav">
+<div id="nav-text" class="nku-menu-page-child"><div class="horz-nav"><div class="nku-menu-button">
+<div class="nku-quicklinks-button"><a href="#"><div class="nku-quicklinks-button-text">Quick Links</div> 
+    <img href="http://nku.edu/etc/designs/global/images/quicklinks-plus.png" class="nku-quicklinks-open">
+    <img href="http://nku.edu/etc/designs/global/images/quicklinks-minus.png" class="nku-quicklinks-close"></a></div><div class="nku-quicklinks-brief"><div class="text parbase text_3">
+<div class="text " id="" ><h4>Quick Links</h4>
+<p><a href="https://learnonline.nku.edu/">Blackboard</a></p>
+<p><a href="http://www.nku.edu/calendars.html">Calendars</a></p>
+<p><a href="https://directory.nku.edu">Directory/Find-It!</a></p>
+<p><a href="http://steelylibrary.nku.edu/">Library, Steely</a></p>
+<p><a href="https://mynku.nku.edu/irj/portal">MyNKU</a></p>
+<p><a href="https://access2.nku.edu/Norseup/Account/Login.aspx?ReturnUrl=%2fnorseup%2f">NorseUp</a></p>
+<p><a href="http://registrar.nku.edu/Registration/Registration_Guide.html">Registration Guide</a></p>
+<p><a href="http://classschedule.nku.edu">Schedule of Classes</a></p>
+<p><a href="http://webmail.nku.edu">Webmail</a></p>
+<p><a href="https://password.nku.edu/">Change Password</a></p></div>
+</div>
+</div><div class="nku-menu-ribbon"></div><ul class="first "></ul></div>
+</div>
+</div></div>
+<div class="searchForm section">
+<div id="nav-search" class="horz-search">
+<div class="nav-search-path hidden">/content/error/jcr:content/navigation/searchform</div>
+
+
+
+
+
+
+    
+
+
+
+<div class="site_search search_form">
+
+<form class="search-form" action="/content/error/search.html">
+
+<fieldset>
+<legend class="hidden">Search the NKU or Current Site</legend>
+<input type="hidden" name="cx" value="010768802234163758142:txqlw5m3bbw" /> 
+<input type="hidden" name="cof" value="FORID:11" />
+
+<div>
+<label class="hidden" for="name">Enter the search term or name</label>
+<input type="text" name="q" id="name" class="search-bar" value="Search" size="10" />&nbsp;
+<label class="hidden" for="sendbutton">Go to search the results page</label>
+<input type="submit" value="Go" id="sendbutton" name="sendbutton" /> <br />
+</div>
+
+<div class="search-options">
+<ul>
+<li><input type="radio" name="sitesearch" id="search_nku" value="nku.edu" checked="checked" /><label for="search_nku">NKU</label></li>
+<li><input type="radio" name="sitesearch" id="search_site" value="/content/error"  /><label for="search_site">Page Not Found</label></li>
+<li><a class="search-close" href="#">close</a></li>
+</ul>
+</div>
+</fieldset>
+
+</form>
+
+</div>
+<div class="search-results"></div>
+</div></div>
+
+</div>
+</div>
+</div>
+</div>
+
+            <div id="content" class="toplevel">
+                <div class="parsys banner">
+</div>
+
+                <div class="breadcrumb"><a href="http://nku.edu/content/error.html">Page Not Found</a> / <a href="http://nku.edu/content/error/404.html">Page not found</a></div>
+
+                <div class="parsys iparsys ipar"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys ipar">
+</div>
+</div>
+</div>
+
+                <div class="mainContent mainColumn">
+                    <a name="pageContentAnchor" id="pageContentAnchor" class="hidden"></a>
+                    <div class="title">
+
+<h2 class="">Page not found</h2></div>
+
+                    <div class="par parsys"><div class="text parbase section">
+<div class="text " id="" ><p><b>Sorry, the page you requested could not be found or for may have been moved.</b></p>
+<p>If you are unable to find the page using the search box or <a href="http://azindex.nku.edu/">A-Z Index</a>, email <a href="mailto:nilsonj@nku.edu">Web Marketing + Communications.</a></p>
+<p><a href="mailto:nilsonj@nku.edu"> </a></p>
+</div>
+</div>
+
+</div>
+
+                    <div class="parbase sharedocument shareDocument">
+<div class="addthis_toolbox addthis_default_style share-document">
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_google_plusone" g:plusone:count="false"></a>
+<a class="addthis_button_email"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
+</div></div>
+ 
+                </div>
+                <div class="clear"></div>
+            </div>
+            <span id="ribbon-wrapper-left"></span>
+            <span id="ribbon-wrapper-right"></span>
+            <span id="ribbon-shadow"></span>  
+
+        </div>
+
+        
+
+        <div class="ribbon">
+            <div id="ribbon-content"><div class="parsys iparsys ribbon"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys ribbon">
+</div>
+</div>
+</div>
+</div>
+        </div>
+
+        <div class="footer">
+            <span id="footer-shadow"></span>
+
+            <div id="footer-content">
+                <div class="parsys iparsys footer-par"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys footer-par"><div class="parbase section reference"><div style="display:inline;" class="cq-dd-paragraph"><div class="par parsys"><div class="parsys_column cq-colctrl-33-33-33"><div class="parsys_column cq-colctrl-33-33-33-c0"><div class="text parbase section">
+<div class="text " id="" ><h3>More about the university</h3>
+</div>
+</div>
+<div class="text parbase section">
+<div class="text " id="" ><ul>
+<li><a href="http://www.nku.edu/campusmaps.html">maps/directions</a></li>
+<li><a href="http://www.nku.edu/accessibility.html">accessibility</a></li>
+<li><a href="http://azindex.nku.edu">a-z index</a></li>
+</ul>
+</div>
+</div>
+<div class="text parbase section">
+<div class="text more-list2" id="" ><ul>
+<li><a href="http://academicaffairs.nku.edu/accreditation1.html" target="_blank">SACSCOC&nbsp;accreditation</a></li>
+<li><a href="http://www.nku.edu/about/mission.html">mission statement</a></li>
+<li><a href="http://strategicplanning.nku.edu">strategic planning<br>
+ </a></li>
+</ul>
+</div>
+</div>
+</div><div class="parsys_column cq-colctrl-33-33-33-c1"><div class="text parbase section">
+<div class="text " id="" ><h3>be part of the university</h3>
+</div>
+</div>
+<div class="text parbase section">
+<div class="text " id="" ><ul>
+<li><a href="http://www.nku.edu/apply.html">apply to the university</a></li>
+<li><a href="http://development.nku.edu/">give to the university</a></li>
+<li><a href="http://www.nku.edu/employment.html">find employment with the university</a></li>
+<li><a href="http://marcomm.nku.edu/web-marketing-and-communications/services/social-networking.html">nku social media</a></li>
+</ul>
+</div>
+</div>
+</div><div class="parsys_column cq-colctrl-33-33-33-c2"><div class="text parbase section">
+<div class="text " id="" ><h3>contact the university</h3>
+</div>
+</div>
+<div class="text parbase section">
+<div class="text " id="" ><ul>
+<li>nunn drive<br>
+highland heights, ky 41099</li>
+<li>phone: 859.572.5100</li>
+<li><a href="http://www.nku.edu/contact.html">additional contact information</a></li>
+</ul>
+</div>
+</div>
+</div></div><div style="clear:both"></div><div class="text parbase section">
+<div class="text " id="" ><div class="social-media"><div class="sm-icon"><a href="http://www.facebook.com/nkuedu"><span><img href="http://nku.edu/content/dam/administrative-pages/images/facebook.png" alt="NKU Facebook"></span></a></div>
+<div class="sm-icon"><a href="http://twitter.com/nkuedu"><span><img href="http://nku.edu/content/dam/administrative-pages/images/twitter.png" alt="NKU Twitter"></span></a></div>
+<div class="sm-icon"><a href="http://instagram.com/nkuedu"><span><img href="http://nku.edu/content/dam/administrative-pages/images/instagam.png" alt="NKU Instagram"></span></a></div>
+<div class="sm-icon"><a href="http://pinterest.com/nkuedu"><span><img href="http://nku.edu/content/dam/administrative-pages/images/pinterest.png" alt="NKU Pinterest"></span></a></div>
+<div class="sm-icon"><a href="http://www.youtube.com/user/nku"><img href="http://nku.edu/content/dam/administrative-pages/images/youtube.png" alt="NKU YouTube"><span></span></a></div>
+<div class="copyright"><br>
+© <a href="http://www.nku.edu/disclaimer.html">2015</a> Northern Kentucky University</div>
+</div>
+</div>
+</div>
+<div class="parbase script section"><script type='text/javascript'>
+// RT-PIXEL_CONTAINER
+
+var ebRand = Math.random()+'';
+ebRand = ebRand * 1000000;
+//<![CDATA[ 
+document.write('<scr'+'ipt src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=595997&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
+//]]>
+</script>
+<noscript>
+<img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=595997&amp;ns=1"/>
+</noscript>
+
+<!-- Google Code for Remarketing Tag PRIMAX -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 957677518;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" href="http://nku.edu//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" href="http://nku.edu//googleads.g.doubleclick.net/pagead/viewthroughconversion/957677518/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript></div>
+
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+            </div>
+
+            <span id="footer-bottom-shadow"></span>
+            <div class="nku-show-desktop"><a href="#">view full site</a></div>
+            <div class="nku-show-mobile"><a href="#">view mobile site</a></div>
+        </div>
+        
+
+    </div>
+
+</body>
+</html>
